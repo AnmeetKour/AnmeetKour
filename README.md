@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Anmeet Kour
 
-<!--
-**AnmeetKour/AnmeetKour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate | Open Source Contributor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 **About Me**
+
+🔧 I specialize in designing scalable infrastructure, CI/CD pipelines, and automating everything possible.  
+🌱 Currently deep diving into **GitOps**, **Kubernetes Operators**, and **Platform Engineering**.  
+💬 Ask me about **DevOps**, **Cloud Platforms (AWS/GCP/Azure)**, **IaC**, **Containerization**, or anything related to automation.  
+📫 Reach me at: anmeetkour.ak@gmail.com 
+⚡ Fun Fact: _"Automate the boring stuff, monitor the rest!"_
+
+
